@@ -8,7 +8,7 @@
 
 SizedBox(
   width: 200.0,
-  height: 100.0,
+  height: 100.0,    
   child: Shimmer.fromColors(
     baseColor: Colors.red,
     highlightColor: Colors.yellow,
